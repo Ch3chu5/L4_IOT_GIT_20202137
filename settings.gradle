@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "L4_IOT_GIT_20202137"
+rootProject.name = "L4_20202137"
 include ':app'
